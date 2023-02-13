@@ -1,0 +1,41 @@
+{
+    "common": {
+        "carbohydrate_amount_in_gram": "Węglowodany/100g:",
+        "protein_amount_in_gram": "Białko/100g:",
+        "weight_kg": "Waga(kg)",
+        "meals_per_day": "Posiłki na dzień",
+        "name": "Nazwa"
+    },
+    "pages": {
+        "main": {
+            "home_tab_name": "S. Główna",
+            "food_tab_name": "Jedzenie",
+            "train_tab_name": "Trening",
+            "settings_tab_name": "Ustawienia"
+        },
+        "login": {
+            "page_title": "Witaj w DietX!",
+            "email": "E-mail",
+            "password": "Hasło",
+            "login_button_label": "Zaloguj",
+            "register_button_label": "Zarejestruj"
+        },
+        "registration": {
+            "page_title": "Rejestracja",
+            "register_button_label": "Zarejestruj"
+        },
+        "food": {
+            "empty_content_description": "Lista z Twoim jedzeniem jest pusta. Naciśnij przycisk poniżej aby dodać swój pierwszy element.",
+            "edit_sheet_create_title": "Stwórz posiłek",
+            "edit_sheet_edit_title": "Edytuj posiłek",
+            "edit_sheet_submit_button_label": "Zatwierdź"
+        },
+        "settings": {
+            "save_button_label": "Zapisz zmiany",
+            "training_type_label": "Typ treningu",
+            "training_type_normal_label": "Normalny",
+            "training_type_strength_label": "Siłowy",
+            "logout_button_label": "Wyloguj"
+        }
+    }
+}

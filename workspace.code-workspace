@@ -1,0 +1,13 @@
+{
+  "folders": [
+    {
+      "name": "📟  Dietx",
+      "path": "."
+    },
+  ],
+  "settings": {
+    "git.ignoreLimitWarning": true,
+    "dart.lineLength": 120,
+    "editor.tabSize": 3,
+  }
+}

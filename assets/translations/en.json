@@ -1,0 +1,41 @@
+{
+    "common": {
+        "carbohydrate_amount_in_gram": "Carbohydrates/100g:",
+        "protein_amount_in_gram": "Protein/100g:",
+        "weight_kg": "Weight(kg)",
+        "meals_per_day": "Meals per day",
+        "name": "Name"
+    },
+    "pages": {
+        "main": {
+            "home_tab_name": "Home",
+            "food_tab_name": "Food",
+            "train_tab_name": "Train",
+            "settings_tab_name": "Settings"
+        },
+        "login": {
+            "page_title": "Welcome to DietX!",
+            "email": "E-mail",
+            "password": "Password",
+            "login_button_label": "Login",
+            "register_button_label": "Register"
+        },
+        "registration": {
+            "page_title": "Registration",
+            "register_button_label": "Register"
+        },
+        "food": {
+            "empty_content_description": "Your food list is empty. Press the below button to add your first item.",
+            "edit_sheet_create_title":"Create food",
+            "edit_sheet_edit_title":"Create food",
+            "edit_sheet_submit_button_label": "Submit"
+        },
+        "settings": {
+            "save_button_label": "Save changes",
+            "training_type_label": "Training type",
+            "training_type_normal_label": "Normal",
+            "training_type_strength_label": "Strength",
+            "logout_button_label": "Logout"
+        }
+    }
+}
